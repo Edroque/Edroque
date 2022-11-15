@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Fullstack development **@digitalHouse Bootcamp**
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, HTML, CSS, React **
 
 - 📫 How to reach me **ebmroque77@gmail.com**
 
