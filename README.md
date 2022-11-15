@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ed Miranda</h1>
-<h3 align="center">A full Stack developer eager to solve problems and a life long learner</h3>
+<h3 align="center">A front end developer eager to solve problems and a life long learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edroque&label=Profile%20views&color=0e75b6&style=flat" alt="edroque" /> </p>
 
